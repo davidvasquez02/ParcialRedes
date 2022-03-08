@@ -1,10 +1,10 @@
-package com.parcial.redes.david.Arrendamientos;
+package com.redes.arrendamientos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ArrendamientosApplicationTests {
+class ParcialRedesApplicationTests {
 
 	@Test
 	void contextLoads() {
